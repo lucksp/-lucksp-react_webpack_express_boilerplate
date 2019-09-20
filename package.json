@@ -1,5 +1,5 @@
 {
-  "name": "react_webpack_boilerplate",
+  "name": "@lucksp/react_webpack_boilerplate",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:lucksp/react_webpack_boilerplate.git",
